@@ -1,0 +1,16 @@
+{
+  "name": "bun-cluster",
+  "module": "index.ts",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Cluster library for bun",
+  "repository": "https://github.com/d4n5h/bun-cluster.git",
+  "author": "Daniel Shlomo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
